@@ -1,4 +1,4 @@
-#!/bin/bash
+#!/usr/bin/env bash
 function set_global_variables {
 	download_program=""
 	tibia_tarball="tibia.x64.tar.gz"
