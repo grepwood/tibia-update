@@ -1,0 +1,7 @@
+<system_name>	<kernel_name>	<kernel_version>	<tar_family>	<tar_version>	<curl_present>	<wget_present>	<result>
+Gentoo		Linux		4.14.10			GNU		1.29		Y		N		Y
+Gentoo		Linux		4.14.10			GNU		1.29		N		Y		Y
+Gentoo		Linux		4.14.10			GNU		1.29		Y		Y		Y
+FreeBSD		FreeBSD		11.1			BSD		3.3.1		Y		N		Y,B1
+FreeBSD		FreeBSD		11.1			BSD		3.3.1		N		Y		Y,B1
+FreeBSD		FreeBSD		11.1			BSD		3.3.1		Y		Y		Y,B1
